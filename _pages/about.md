@@ -35,7 +35,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2023</div><img src='images/图片3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2023</div><img src='images/图片1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RGB-T Cross-Modal Image Registration Fusing Global Structure and Local Mutual Information](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241056)
