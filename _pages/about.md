@@ -28,15 +28,27 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RGB-T Cross-Modal Image Registration Fusing Global Structure and Local Mutual Information](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241056)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhongyan Sun**, Jing Yuan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=YtIR4HoAAAAJ&citation_for_view=YtIR4HoAAAAJ:u-x6o8ySG0sC)></span></strong>
+- This paper proposes an RGB and thermal (RGB-T) image registration method that combines global structure with local mutual information, called GSLMI 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RICAI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RGB-T Cross-Modal Image Registration Fusing Global Structure and Local Mutual Information](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241056)
+
+**Zhongyan Sun**, Jing Yuan
+
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=YtIR4HoAAAAJ&citation_for_view=YtIR4HoAAAAJ:u-x6o8ySG0sC)></span></strong>
+- This paper proposes an RGB and thermal (RGB-T) image registration method that combines global structure with local mutual information, called GSLMI 
 </div>
 </div>
 
