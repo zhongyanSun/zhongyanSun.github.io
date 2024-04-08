@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#szy.github.io/about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Works"
+    url: "/#-works"
 
   - title: "Publications"
     url: "/#-publications"
