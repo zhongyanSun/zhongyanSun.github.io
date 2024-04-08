@@ -22,9 +22,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 <span class='anchor' id='-news'></span>
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+# 🔥 Projects
+- *2022.09至今*: **国家自然科学基金区域创新发展联合基金重点项目**:可视度受限环境下跨光谱多传感信息融合的机器人语义感知与交互协作. 负责**可视度受限环境下的跨光谱视觉-惯导-激光雷达传感器融合的机器人SLAM**工作
+  
+
 
   
 
@@ -70,8 +71,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2022.09 - 2025.07 (now)*, 南开大学人工智能学院 控制工程专业 研究生 专业排名top10% 南开大学机器人智能感知与协同控制实验室. 
-- *2018.08 - 2022.07*, 南开大学人工智能学院 自动化专业 本科 专业排名top10% 南开大学机器人智能感知与协同控制实验室. 
+- *2022.09 - 2025.07*, 南开大学人工智能学院 控制工程 **(研究生)** 排名top10%  可信行为智能算法与系统教育部工程研究中心. 
+- *2018.08 - 2022.07*, 南开大学人工智能学院 自动化 **(本科)**  排名top10%    南开大学机器人智能感知与协同控制实验室. 
 
 <span class='anchor' id='-invited-talks'></span>
 # 💬 Invited Talks
