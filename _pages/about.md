@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zhongyan Sun**, Jing Yuan
 
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=YtIR4HoAAAAJ&citation_for_view=YtIR4HoAAAAJ:u-x6o8ySG0sC)></span></strong>
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=YtIR4HoAAAAJ&citation_for_view=YtIR4HoAAAAJ:u-x6o8ySG0sC)>
 - This paper proposes an RGB and thermal (RGB-T) image registration method that combines global structure with local mutual information, called GSLMI 
 </div>
 </div>
@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zhongyan Sun**, Jing Yuan
 
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=YtIR4HoAAAAJ&citation_for_view=YtIR4HoAAAAJ:u-x6o8ySG0sC)></span></strong>
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=YtIR4HoAAAAJ&citation_for_view=YtIR4HoAAAAJ:u-x6o8ySG0sC)>
 - This paper proposes an RGB and thermal (RGB-T) image registration method that combines global structure with local mutual information, called GSLMI 
 </div>
 </div>
@@ -59,8 +59,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.08 - 2022.07 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.08 - 2022.07*, 南开大学人工智能学院rem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
