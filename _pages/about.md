@@ -29,7 +29,7 @@ redirect_from:
 - *2022.09至今*: **国家自然科学基金区域创新发展联合基金重点项目**:可视度受限环境下跨光谱多传感信息融合的机器人语义感知与交互协作. 负责**可视度受限环境下的跨光谱视觉-惯导-激光雷达传感器融合的机器人SLAM**工作
 - 跨光谱视觉-惯导-激光雷达传感器融合SLAM框架：
 <img src='images/VTIO流程图.png' alt="sym" style="max-width: 100%; height: auto;">
-- 在天津市陈塘热电厂利用四足机器人和移动机器人平台采集数据测试效果如下：
+- 在天津市陈塘热电厂利用四足机器人(unitree A1)和移动机器人(husky)平台采集数据测试效果如下：
 <div style="display: flex;">
     <img src='images/狗室外 00_00_00-00_00_42.gif' alt="sym" style="max-width: 50%; height: auto;">
     <img src='images/husky-indoor1 00_00_00-00_00_40.gif' alt="sym" style="max-width: 50%; height: auto;">
@@ -60,7 +60,7 @@ redirect_from:
 **Zhongyan Sun**, Jing Yuan, Yang Wang, Guanming Qu, Hongzhi Yu
 
 [**Project**](https://www.ais.cn/attendees/index/EVRFFR)
-- This paper proposes an RGB and thermal (RGB-T) image registration method that combines global structure with local mutual information, called GSLMI 
+- This paper proposes a thermal visual and IMU sensors tightly-coupled visualinertial odometry based on a direct method optimization framework, which is immune to illumination conditions and visual occlusions.
 </div>
 </div>
 
@@ -72,11 +72,12 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2020.10* 南开大学国家励志奖学金. 
 - *2021.09* 天津津航技术物理研究所暑期实训项目优秀实训证书.
-- *2022.06* 南开大学人工智能学院本科优秀毕业论文
-- *2022.09* 南开大学研究生推免生奖学金
-- *2023.10* 南开大学公能奖学金
-- *2023.12* 第五届机器人、智能控制与人工智能国际学术会议优秀海报证书
-- 大学英语四/六级证书（CET-4/6）；国家普通话一级乙等证书
+- *2022.06* 南开大学人工智能学院本科优秀毕业论文.
+- *2022.09* 南开大学研究生推免生奖学金.
+- *2023.10* 南开大学公能奖学金.
+- *2023.12* 第五届机器人、智能控制与人工智能国际学术会议优秀海报证书.
+- 大学英语四/六级证书（CET-4/6）.
+- 国家普通话一级乙等证书.
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
