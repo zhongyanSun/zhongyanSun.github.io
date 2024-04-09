@@ -32,8 +32,8 @@ redirect_from:
 <img src='images/VTIO流程图.png' alt="sym" style="max-width: 100%; height: auto;">
 - 在天津市陈塘热电厂利用四足机器人和移动机器人平台采集数据测试效果如下：
 <div style="display: flex;">
-    <img src='images/狗室外 00_00_00-00_00_42.gif' alt="sym" style="max-width: 100%; height: auto;">
-    <img src='images/dog-indoor-LVTI.gif' alt="sym" style="max-width: 100%; height: auto;">
+    <img src='images/狗室外 00_00_00-00_00_42.gif' alt="sym" style="max-width: 50%; height: auto;">
+    <img src='images/dog-indoor-LVTI.gif' alt="sym" style="max-width: 50%; height: auto;">
 </div>
 <img src='images/husky-indoor1 00_00_00-00_00_40.gif' alt="sym" style="max-width: 100%; height: auto;">
 
