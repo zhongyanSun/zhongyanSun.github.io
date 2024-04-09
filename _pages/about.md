@@ -18,22 +18,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 About Me
-掌握 C++、Python 等编程语言，熟悉Linux系统，具有ROS框架开发经验；具有IMU、激光雷达、热成像与可见光相机等传感器调试、标定以及多传感器融合SLAM算法开发经验；熟悉四足机器人、移动机器人、无人机等机器人平台；
+- 本人本科毕业于南开大学人工智能学院自动化专业，大四保研进入南开大学机器人智能感知与协同控制实验室后开始进行机器人SLAM方向的学习与研究。本人掌握 C++、Python 等编程语言，熟悉Linux系统，具有ROS框架开发经验；具有IMU、激光雷达、热成像与可见光相机等传感器调试、标定以及多传感器融合SLAM算法开发经验；熟悉四足机器人、移动机器人、无人机等机器人平台；参与过多项国家级项目以及横向项目，积累了机器人平台部署以及算法设计的经验。
+- 本人的学习主要围绕热成像与可见光跨光谱视觉多传感器融合的主题展开，开展了如传感器标定、跨光谱图像陪准、跨光谱多传感器融合里程计等工作。整体的研究如下图所示：
 
-<img src='images/关键技术体系图.png' alt="sym" style="max-width: 100%; height: auto;">
+<img src='images/关键技术体系.png' alt="sym" style="max-width: 100%; height: auto;">
 
 
 <span class='anchor' id='-projects'></span>
 
 # 🔥 Projects
 - *2022.09至今*: **国家自然科学基金区域创新发展联合基金重点项目**:可视度受限环境下跨光谱多传感信息融合的机器人语义感知与交互协作. 负责**可视度受限环境下的跨光谱视觉-惯导-激光雷达传感器融合的机器人SLAM**工作
+- 跨光谱视觉-惯导-激光雷达传感器融合SLAM框架：
 <img src='images/VTIO流程图.png' alt="sym" style="max-width: 100%; height: auto;">
+- 在天津市陈塘热电厂利用四足机器人和移动机器人平台采集数据测试效果如下：
 <div style="display: flex;">
     <img src='images/狗室外 00_00_00-00_00_42.gif' alt="sym" style="max-width: 100%; height: auto;">
-    <img src='imagesdog-indoor-LVTI.gif' alt="sym" style="max-width: 100%; height: auto;">
+    <img src='images/dog-indoor-LVTI.gif' alt="sym" style="max-width: 100%; height: auto;">
 </div>
-
-<img src='images/husky-indoor1 00_00_00-00_00_40.gif' alt="sym" style="max-width: 100%; height: auto;>
+<img src='images/husky-indoor1 00_00_00-00_00_40.gif' alt="sym" style="max-width: 100%; height: auto;">
 
 <span class='anchor' id='-publications'></span>
 
@@ -64,6 +66,8 @@ redirect_from:
 </div>
 
 - [A 3 RGB-D SLAM: Active RGB-D SLAM with Active Exploration, Adaptive TEB and Active Loop Closure](https://github.com), Shuhao Zhu, Xingyu Sun, **Zhongyan Sun**, **CCC 2023**
+  
+- 一篇IEEE Trans论文在撰写
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
