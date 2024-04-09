@@ -19,7 +19,7 @@ redirect_from:
 
 # 💬 About Me
 掌握 C++、Python 等编程语言，熟悉Linux系统，具有ROS框架开发经验；具有IMU、激光雷达、热成像与可见光相机等传感器调试、标定以及多传感器融合SLAM算法开发经验；熟悉四足机器人、移动机器人、无人机等机器人平台；
-<img src='images/500x300.png' alt="sym" width="100%">
+<img src='images/关键技术体系图.png' alt="sym" width="100%">
 
 
 <span class='anchor' id='-projects'></span>
@@ -27,7 +27,7 @@ redirect_from:
 # 🔥 Projects
 - *2022.09至今*: **国家自然科学基金区域创新发展联合基金重点项目**:可视度受限环境下跨光谱多传感信息融合的机器人语义感知与交互协作. 负责**可视度受限环境下的跨光谱视觉-惯导-激光雷达传感器融合的机器人SLAM**工作
   
-<img src='images/500x300.png' alt="sym" width="100%">
+<img src='images/狗室外 00_00_00-00_00_42.gif' alt="sym" width="100%">
 
   
 
