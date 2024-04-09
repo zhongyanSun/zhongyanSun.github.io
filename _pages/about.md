@@ -20,7 +20,6 @@ redirect_from:
 # 💬 About Me
 - 本人本科毕业于南开大学人工智能学院自动化专业，大四保研进入南开大学机器人智能感知与协同控制实验室后开始进行机器人SLAM方向的学习与研究。本人掌握 C++、Python 等编程语言，熟悉Linux系统，具有ROS框架开发经验；具有IMU、激光雷达、热成像与可见光相机等传感器调试、标定以及多传感器融合SLAM算法开发经验；熟悉四足机器人、移动机器人、无人机等机器人平台；参与过多项国家级项目以及横向项目，积累了机器人平台部署以及算法设计的经验。
 - 本人的学习主要围绕热成像与可见光跨光谱视觉多传感器融合的主题展开，开展了如传感器标定、跨光谱图像陪准、跨光谱多传感器融合里程计等工作。整体的研究如下图所示：
-
 <img src='images/关键技术体系.png' alt="sym" style="max-width: 100%; height: auto;">
 
 
@@ -33,9 +32,9 @@ redirect_from:
 - 在天津市陈塘热电厂利用四足机器人和移动机器人平台采集数据测试效果如下：
 <div style="display: flex;">
     <img src='images/狗室外 00_00_00-00_00_42.gif' alt="sym" style="max-width: 50%; height: auto;">
-    <img src='images/dog-indoor-LVTI.gif' alt="sym" style="max-width: 50%; height: auto;">
+    <img src='images/husky-indoor1 00_00_00-00_00_40.gif' alt="sym" style="max-width: 50%; height: auto;">
 </div>
-<img src='images/husky-indoor1 00_00_00-00_00_40.gif' alt="sym" style="max-width: 100%; height: auto;">
+<img src='images/dog-indoor-LVTI.gif' alt="sym" style="max-width: 100%; height: auto;">
 
 <span class='anchor' id='-publications'></span>
 
