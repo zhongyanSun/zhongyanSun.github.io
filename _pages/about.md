@@ -43,7 +43,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCC 2023</div><img src='images/陪准.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RGB-T Cross-Modal Image Registration Fusing Global Structure and Local Mutual Information](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241056)
+[RGB-T Cross-Modal Image Registration Fusing Global Structure and Local Mutual Information](https://ieeexplore.ieee.org/document/10241056)
 
 **Zhongyan Sun**, Jing Yuan
 
@@ -55,16 +55,16 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RICAI 2023</div><img src='images/TIO流程图.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Thermal image based direct method visual-inertial odometry for robot navigation](https://file.ais.cn/storage/paper/2023/12/EVRFFR/202403/700c42eb-ee9c-485c-a70e-a3c71066b872.pdf?Expires=1712581177&OSSAccessKeyId=LTAI5tBDbgmbzLbQ9WtdR5y2&Signature=prHDl%2BzlhbYAUqDkxkB%2Bo8K1qKs%3D)
+[Thermal image based direct method visual-inertial odometry for robot navigation](https://ieeexplore.ieee.org/document/10488925)
 
 **Zhongyan Sun**, Jing Yuan, Yang Wang, Guanming Qu, Hongzhi Yu
 
-[**Project**](https://www.ais.cn/attendees/index/EVRFFR)
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=YtIR4HoAAAAJ&citation_for_view=YtIR4HoAAAAJ:d1gkVwhDpl0C)
 - This paper proposes a thermal visual and IMU sensors tightly-coupled visualinertial odometry based on a direct method optimization framework, which is immune to illumination conditions and visual occlusions.
 </div>
 </div>
 
-- [A 3 RGB-D SLAM: Active RGB-D SLAM with Active Exploration, Adaptive TEB and Active Loop Closure](https://github.com), Shuhao Zhu, Xingyu Sun, **Zhongyan Sun**, **CCC 2023**
+- [A 3 RGB-D SLAM: Active RGB-D SLAM with Active Exploration, Adaptive TEB and Active Loop Closure](https://ieeexplore.ieee.org/abstract/document/10240308), Shuhao Zhu, Xingyu Sun, **Zhongyan Sun**, **CCC 2023**
   
 - 一篇IEEE Trans论文在撰写
 
