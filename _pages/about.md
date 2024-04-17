@@ -36,6 +36,10 @@ redirect_from:
 </div>
 <img src='images/dog-indoor-LVTI.gif' alt="sym" style="max-width: 100%; height: auto;">
 
+- 四足机器人平台的搭建与传感器标定（各人完成）
+  <img src='images/四足平台.png' alt="sym" style="max-width: 100%; height: auto;">
+
+
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
